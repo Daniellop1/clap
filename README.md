@@ -1,2 +1,0 @@
-# clap
-Simple clap button
